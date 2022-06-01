@@ -10,4 +10,5 @@ An awsome blog for [Git and Github course](https://platzi.com/cursos/git-github/
 * Trabajar con un servidor remoto, traer un proyecto y trabajar sobre el.}
 * Creado por el team de platzi
 * Incluye ejemplos en windows, Linux y Mac
+* Disponible para todas las edades
 Este **readme.md es una muestra para que aprender de como editar la descripcion de este blog.** Lo mejor seria que visiten y aprendan acerca de [**este curso**](https://platzi.com/cursos/git-github/)
